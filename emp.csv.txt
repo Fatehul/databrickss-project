@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,TotalSpend
+1,John Smith,35,Male,1200
+2,Jane Doe,28,Female,800
+3,Michael Johnson,45,Male,1500
+4,Emily Brown,30,Female,1000
+3,Michael Johnson,45,Male,1500

@@ -1,0 +1,33 @@
+How much credit Available : https://www.microsoftazuresponsorships.com/Balance
+
+SAS --We will generate access to folder level and mount that.
+Access keys -- Whole container level we will have access. 
+
+
+https://www.databricks.com/learn/certification  ( lakehouse fundamental)
+
+
+https://drive.google.com/drive/folders/1b4LWt6tP81P4B9RYleQM7_I-Ki61WSdP?usp=drive_link  (google drive of Naval)
+
+
+https://www.microsoftazuresponsorships.com/Balance  ( Balance Link)
+
+https://www.databricks.com/notebooks/enforcing-column-level-encryption.html  ( column level encryption)
+
+Assignment https://forms.gle/zG9bbjFC254xKJyC6
+
+Scala · Data Engineering · Azure Synapse Analytics · Azure Delta Lake · Git · NoSQL · SQL · 
+PySpark · Delta Lakehouse · Big Data · Agile Methodologies · Apache Spark · Azure Databricks · Azure Data Factory · 
+Apache Spark Streaming · Hadoop · Apache Impala · Apache Kafka
+
+
+Big Data Engineer with 2 years of experience in Building data pipelines for leading pharma giants.
+
+Technologies currently working on:
+Python, SQL, Pyspark, AWS (EC2, S3, EMR. Athena, Glue, Step function), Airflow 
+
+Completed PG-Diploma in Big Data Analytics from CDAC ACTS, Pune.
+
+Having strong knowledge of Python, MySQL, Oracle database, MongoDB, R, Machine Learning, Data Analysis. Data Visualization, Big Data Technologies, Docker.
+
+Results oriented Lead Data Engineer with 11 years of extensive expertise in Big-Data/Hadoop technology stack using Apache Spark(Batch/Real time processing), Scala, Azure(ADF, Databricks, Delta lake) , Hive, AWS(EMR,EC2,Athena,S3,Redshift & Glue), Snowflake DWH, NOSQL Database(HBase), Data Warehousing, ETL, Sqoop, Airflow, Kafka Streaming, SQL, PLSQL & Unix
